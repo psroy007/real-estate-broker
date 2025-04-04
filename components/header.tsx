@@ -84,7 +84,7 @@ export default function Header() {
               <div className="flex flex-col gap-4 mt-4">
                 <div className="flex items-center gap-2">
                   <Phone className="h-4 w-4 text-[#e63946]" />
-                  <span className="text-sm font-medium">+91 98765 43210</span>
+                  <span className="text-sm font-medium">+91 98317 77920</span>
                 </div>
                 <Button asChild className="bg-[#e63946] hover:bg-[#e63946]/90 w-full">
                   <Link href="/contact" onClick={() => setIsOpen(false)}>
